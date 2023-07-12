@@ -1,0 +1,11 @@
+[tool.poetry]
+name = "Test-Application"
+version = "0.1.0"
+description = "Coding challenge"
+authors = ["kumarsatish1858@gmail.com"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+asyncpg = "^0.28.0"
+sqlalchemy = "^2.0.18"
+async-lru = "^2.0.3"
